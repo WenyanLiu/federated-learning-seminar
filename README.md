@@ -30,7 +30,7 @@ Welcome to Federated Learning Seminar :)
     <td>2</td>
     <td>FedSmart: An Auto Updating Federated Learning Optimization Mechanism</td>
     <td>步一凡</td>
-    <td><a herf="2020fall/20200922 - FedSmart (步一凡).pptx">Slides</a></td>
+    <td><a href="2020fall/20200922 - FedSmart (步一凡).pptx">Slides</a></td>
   </tr>
   <tr>
     <td rowspan="5">October</td>
