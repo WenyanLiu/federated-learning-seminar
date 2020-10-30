@@ -68,6 +68,31 @@ Welcome to Federated Learning Seminar :)
 
 <table>
   <tr>
+    <th colspan="7">2019 Fall</th>
+  </tr>
+  <tr>
+    <th colspan="7"><span style="font-weight:bold">Time: </span>13:00 - 15:00, Friday　　　<span style="font-weight:bold">Venue: </span>201, Math Building</th>
+  </tr>
+  <tr>
+    <td>Month</td>
+    <td>Day</td>
+    <td>Week</td>
+    <td>Topic</td>
+    <td>Speaker</td>
+    <td>Materials</td>
+  </tr>
+  <tr>
+    <td>November</td>
+    <td>22</td>
+    <td>12</td>
+    <td>Agnostic Federated Learning</td>
+    <td>程俊宏</td>
+    <td><a href="2019fall/20191122 - Agnostic Federated Learning (程俊宏).pptx">Slides</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th colspan="7">2019 Spring</th>
   </tr>
   <tr>
