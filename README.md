@@ -65,3 +65,68 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2020fall/20201027 - Federated learning with adaptive communication compression under dynamic bandwidth and unreliable networks (郑海坤).ppt">Slides</a></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th colspan="7">2019 Spring</th>
+  </tr>
+  <tr>
+    <th colspan="7"><span style="font-weight:bold">Time: </span>8:30 - 11:30, Thursday　　　<span style="font-weight:bold">Venue: </span>201, Math Building</th>
+  </tr>
+  <tr>
+    <td>Month</td>
+    <td>Day</td>
+    <td>Week</td>
+    <td>Topic</td>
+    <td>Speaker</td>
+    <td>Materials</td>
+  </tr>
+  <tr>
+    <td rowspan="7">March</td>
+    <td>21</td>
+    <td>5</td>
+    <td>联邦机器学习</td>
+    <td>董天文</td>
+    <td><a href="2019spring/20190321 - 联邦机器学习 (董天文).pdf">Slides</a></td>
+  </tr>
+  <tr>
+    <td rowspan="6">28</td>
+    <td rowspan="6">6</td>
+    <td>联邦学习技术及数据隐私保护</td>
+    <td>刘文炎</td>
+    <td><a href="2019spring/20190328 - 联邦学习的研究及应用 (刘文炎).pdf">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Federated Transfer Learning	</td>
+    <td>程俊宏</td>
+    <td><a href="2019spring/20190328 - Federated Transfer Learning (程俊宏).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>联邦学习中的博弈论</td>
+    <td>李靖东</td>
+    <td><a href="2019spring/20190328 - 联邦学习中的博弈论 (李靖东).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>网络安全与数据保护的立法和实践	</td>
+    <td></td>
+    <td><a href="2019spring/20190328 - 网络安全与数据保护的立法和实践.md">Slides</a></td>
+  </tr>
+  <tr>
+    <td>联邦学习：AI For Everyone 的必经之路</td>
+    <td>林淳波</td>
+    <td><a href="2019spring/20190328 - 联邦学习：AI For Everyone 的必经之路 (林淳波).pptx">Slides</a></td>
+  </tr>
+    <tr>
+    <td>城市计算与跨域学习联合建模</td>
+    <td>董天文</td>
+    <td><a href="2019spring/20190328 - 城市计算与跨域学习联合建模 (董天文).pdf">Slides</a></td>
+  </tr>
+  <tr>
+    <td>August</td>
+    <td>1</td>
+    <td>/</td>
+    <td>联邦学习拾遗</td>
+    <td>刘文炎</td>
+    <td><a href="2019spring/20190801 - 联邦学习拾遗 (刘文炎).pdf">Slides</a></td>
+  </tr>
+</table>
