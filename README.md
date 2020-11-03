@@ -70,12 +70,12 @@ Welcome to Federated Learning Seminar :)
     <td rowspan="2">8</td>
     <td>Asynchronous Federated Optimization</td>
     <td>步一凡</td>
-    <td><a href="20201103 - Asynchronous Federated Optimization (步一凡).pptx">Slides</a></td>
+    <td><a href="2020fall/20201103 - Asynchronous Federated Optimization (步一凡).pptx">Slides</a></td>
   </tr>
   <tr>
     <td>Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud</td>
     <td>郑海坤</td>
-    <td><a href="20201103 - Not Just Privacy (郑海坤).pptx">Slides</a></td>
+    <td><a href="2020fall/20201103 - Not Just Privacy (郑海坤).pptx">Slides</a></td>
   </tr>
 </table>
 
