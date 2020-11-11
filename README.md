@@ -65,7 +65,7 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2020fall/20201027 - Federated learning with adaptive communication compression under dynamic bandwidth and unreliable networks (郑海坤).ppt">Slides</a></td>
   </tr>
   <tr>
-    <td rowspan="2">November</td>
+    <td rowspan="4">November</td>
     <td rowspan="2">3</td>
     <td rowspan="2">8</td>
     <td>Asynchronous Federated Optimization</td>
@@ -76,6 +76,18 @@ Welcome to Federated Learning Seminar :)
     <td>Not Just Privacy: Improving Performance of Private Deep Learning in Mobile Cloud</td>
     <td>郑海坤</td>
     <td><a href="2020fall/20201103 - Not Just Privacy (郑海坤).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">10</td>
+    <td rowspan="2">9</td>
+    <td>Personalized Federated Learning with Moreau Envelopes</td>
+    <td>步一凡</td>
+    <td><a href="2020fall/20201110 - Personalized Federated Learning with Moreau Envelopes(步一凡).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Federated Learning with Personalization Layers</td>
+    <td>步一凡</td>
+    <td><a href="2020fall/20201110 - Federated Learning with Personalization Layers (步一凡).pptx">Slides</a></td>
   </tr>
 </table>
 
