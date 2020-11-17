@@ -65,7 +65,7 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2020fall/20201027 - Federated learning with adaptive communication compression under dynamic bandwidth and unreliable networks (郑海坤).ppt">Slides</a></td>
   </tr>
   <tr>
-    <td rowspan="4">November</td>
+    <td rowspan="5">November</td>
     <td rowspan="2">3</td>
     <td rowspan="2">8</td>
     <td>Asynchronous Federated Optimization</td>
