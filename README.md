@@ -89,6 +89,13 @@ Welcome to Federated Learning Seminar :)
     <td>步一凡</td>
     <td><a href="2020fall/20201110 - Federated Learning with Personalization Layers (步一凡).pptx">Slides</a></td>
   </tr>
+  <tr>
+    <td>17</td>
+    <td>10</td>
+    <td>Distributed Machine Learning through Heterogeneous Edge Systems</td>
+    <td>郑海坤</td>
+    <td><a href="2020fall/20201117 - Distributed Machine Learning through Heterogeneous Edge Systems(郑海坤).pptx">Slides</a></td>
+  </tr>
 </table>
 
 <table>
