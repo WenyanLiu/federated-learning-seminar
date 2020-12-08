@@ -65,7 +65,7 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2020fall/20201027 - Federated learning with adaptive communication compression under dynamic bandwidth and unreliable networks (郑海坤).ppt">Slides</a></td>
   </tr>
   <tr>
-    <td rowspan="5">November</td>
+    <td rowspan="6">November</td>
     <td rowspan="2">3</td>
     <td rowspan="2">8</td>
     <td>Asynchronous Federated Optimization</td>
@@ -95,6 +95,21 @@ Welcome to Federated Learning Seminar :)
     <td>Distributed Machine Learning through Heterogeneous Edge Systems</td>
     <td>郑海坤</td>
     <td><a href="2020fall/20201117 - Distributed Machine Learning through Heterogeneous Edge Systems(郑海坤).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>11</td>
+    <td>Communication-Efficient On-Device Machine LearningFederated Distillation and Augmentationunder Non-IID Private Data</td>
+    <td>步一凡</td>
+    <td><a href="2020fall/20201124 - Communication-Efficient On-Device Machine LearningFederated Distillation and Augmentationunder Non-IID Private Data(步一凡).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td rowspan="6">Decemeber</td>
+    <td>1</td>
+    <td>12</td>
+    <td>FedMD Heterogenous Federated Learning via Model Distillation</td>
+    <td>步一凡</td>
+    <td><a href="2020fall/20201201 - FedMD Heterogenous Federated Learning via Model Distillation（步一凡） .pptx">Slides</a></td>
   </tr>
 </table>
 
