@@ -111,6 +111,21 @@ Welcome to Federated Learning Seminar :)
     <td>步一凡</td>
     <td><a href="2020fall/20201201 - FedMD Heterogenous Federated Learning via Model Distillation（步一凡） .pptx">Slides</a></td>
   </tr>
+    <tr>
+    <td>8</td>
+    <td>12</td>
+    <td>GAN Enhanced Membership Inference A PassiveLocal Attack in Federated Learning</td>
+    <td>步一凡</td>
+    <td><a href="2020fall/20201207 - GAN Enhanced Membership Inference A PassiveLocal Attack in Federated Learning.pptx">Slides</a></td>
+  </tr>
+  </tr>
+    <tr>
+    <td>22</td>
+    <td>12</td>
+    <td>An Efficient Framework for Clustered Federated Learning</td>
+    <td>步一凡</td>
+    <td><a href="2020fall/20201222 - An Efficient Framework for Clustered Federated Learning.pptx">Slides</a></td>
+  </tr>
 </table>
 
 <table>
