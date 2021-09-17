@@ -4,6 +4,36 @@ Welcome to Federated Learning Seminar :)
 
 <table>
   <tr>
+    <th colspan="7">2021 Spring</th>
+  </tr>
+  <tr>
+    <th colspan="7"><span style="font-weight:bold">Time: </span>13:00 - 16:00, Friday　　　<span style="font-weight:bold">Venue: </span>B1002, Science Building</th>
+  </tr>
+  <tr>
+    <td>Month</td>
+    <td>Day</td>
+    <td>Week</td>
+    <td>Topic</td>
+    <td>Speaker</td>
+    <td>Materials</td>
+  </tr>
+  <tr>
+    <td rowspan="2">March</td>
+    <td rowspan="2">9</td>
+    <td rowspan="2">2</td>
+    <td>Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data<br>Distillation-Based Semi-Supervised Federated Learning for Communication-Efficient Collaborative Training with Non-IID Private Data</td>
+    <td>步一凡</td>
+    <td><a href="2021spring/20210319 - 联邦学习中的知识蒸馏 (步一凡).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>SCAFFOLD: Stochastic Controlled Averaging for Federated Learning</td>
+    <td>郑海坤</td>
+    <td><a href="2021spring/20210319 - 联邦学习下的数据异构问题 (郑海坤).pptx">Slides</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th colspan="7">2020 Fall</th>
   </tr>
   <tr>
@@ -104,27 +134,48 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2020fall/20201124 - Communication-Efficient On-Device Machine LearningFederated Distillation and Augmentationunder Non-IID Private Data(步一凡).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td rowspan="6">Decemeber</td>
+    <td rowspan="8">Decemeber</td>
     <td>1</td>
     <td>12</td>
     <td>FedMD Heterogenous Federated Learning via Model Distillation</td>
     <td>步一凡</td>
     <td><a href="2020fall/20201201 - FedMD Heterogenous Federated Learning via Model Distillation（步一凡） .pptx">Slides</a></td>
   </tr>
-    <tr>
+  <tr>
     <td>8</td>
-    <td>12</td>
+    <td>13</td>
     <td>GAN Enhanced Membership Inference A PassiveLocal Attack in Federated Learning</td>
     <td>步一凡</td>
     <td><a href="2020fall/20201207 - GAN Enhanced Membership Inference A PassiveLocal Attack in Federated Learning.pptx">Slides</a></td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td>14</td>
+    <td>On-Edge Multi-Task Transfer Learning: Model and Practice With Data-Driven Task Allocation</td>
+    <td>郑海坤</td>
+    <td><a href="2020fall/20201215 - On Edge Multi Task Transfer Learning Model and Practice With Data-Driven Task Allocation (郑海坤).pptx">Slides</a></td>
   </tr>
-    <tr>
+  <tr>
     <td>22</td>
-    <td>12</td>
+    <td>15</td>
     <td>An Efficient Framework for Clustered Federated Learning</td>
     <td>步一凡</td>
     <td><a href="2020fall/20201222 - An Efficient Framework for Clustered Federated Learning.pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>16</td>
+    <td>Optimize Scheduling of Federated Learning on Battery-powered Mobile Devices</td>
+    <td>郑海坤</td>
+    <td><a href="2020fall/20201229 - Optimize Scheduling of Federated Learning on Battery-powered Mobile Devices (郑海坤).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td rowspan="1">January</td>
+    <td>5</td>
+    <td>17</td>
+    <td>TiFL: A Tier-based Federated Learning System</td>
+    <td>郑海坤</td>
+    <td><a href="2020fall/20210105 - TiFL A Tier-based Federated Learning System (郑海坤).pptx">Slides</a></td>
   </tr>
 </table>
 
