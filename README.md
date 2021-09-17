@@ -4,6 +4,31 @@ Welcome to Federated Learning Seminar :)
 
 <table>
   <tr>
+    <th colspan="7">2021 Fall</th>
+  </tr>
+  <tr>
+    <th colspan="7"><span style="font-weight:bold">Time: </span>15:00 - 17:00, Thursday　　　<span style="font-weight:bold">Venue: </span>B914, Science Building</th>
+  </tr>
+  <tr>
+    <td>Month</td>
+    <td>Day</td>
+    <td>Week</td>
+    <td>Topic</td>
+    <td>Speaker</td>
+    <td>Materials</td>
+  </tr>
+  <tr>
+    <td>June</td>
+    <td>29</td>
+    <td>0</td>
+    <td>A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing</td>
+    <td>江宇辉</td>
+    <td><a href="20210629 - A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing (江宇辉).pptx">Slides</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th colspan="7">2021 Spring</th>
   </tr>
   <tr>
