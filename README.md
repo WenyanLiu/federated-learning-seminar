@@ -23,7 +23,20 @@ Welcome to Federated Learning Seminar :)
     <td>0</td>
     <td>A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing</td>
     <td>江宇辉</td>
-    <td><a href="20210629 - A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing (江宇辉).pptx">Slides</a></td>
+    <td><a href="2021fall/20210629 - A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing (江宇辉).pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">September</td>
+    <td rowspan="2">16</td>
+    <td rowspan="2">2</td>
+    <td>Title</td>
+    <td>江宇辉</td>
+    <td><a href="2021fall/filename.pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Title</td>
+    <td>毛伟</td>
+    <td><a href="2021fall/filename.pptx">Slides</a></td>
   </tr>
 </table>
 
