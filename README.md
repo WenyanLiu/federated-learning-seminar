@@ -29,9 +29,9 @@ Welcome to Federated Learning Seminar :)
     <td rowspan="2">September</td>
     <td rowspan="2">16</td>
     <td rowspan="2">2</td>
-    <td>Title</td>
+    <td>Adaptive User-managed Service Placement for Mobile Edge Computing An Online Learning Approach</td>
     <td>江宇辉</td>
-    <td><a href="2021fall/filename.pptx">Slides</a></td>
+    <td><a href="2021fall/20210916 - Adaptive User-managed Service Placement for Mobile Edge Computing An Online Learning Approach.pptx">Slides</a></td>
   </tr>
   <tr>
     <td>Title</td>
