@@ -134,7 +134,7 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2020fall/20201124 - Communication-Efficient On-Device Machine LearningFederated Distillation and Augmentationunder Non-IID Private Data(步一凡).pptx">Slides</a></td>
   </tr>
   <tr>
-    <td rowspan="8">Decemeber</td>
+    <td rowspan="5">Decemeber</td>
     <td>1</td>
     <td>12</td>
     <td>FedMD Heterogenous Federated Learning via Model Distillation</td>
