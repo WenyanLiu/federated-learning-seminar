@@ -38,6 +38,19 @@ Welcome to Federated Learning Seminar :)
     <td>毛伟</td>
     <td><a href="2021fall/filename.pptx">Slides</a></td>
   </tr>
+    <tr>
+    <td rowspan="2">September</td>
+    <td rowspan="2">23</td>
+    <td rowspan="2">2</td>
+    <td>In-Edge AI Intelligentizing Mobile Edge Computing Caching and Communication by Federated Learning</td>
+    <td>江宇辉</td>
+    <td><a href="2021fall/20210923 - In-Edge AI Intelligentizing Mobile Edge Computing Caching and Communication by Federated Learning.pptx">Slides</a></td>
+  </tr>
+  <tr>
+    <td>Title</td>
+    <td>毛伟</td>
+    <td><a href="2021fall/filename.pptx">Slides</a></td>
+  </tr>
 </table>
 
 <table>
