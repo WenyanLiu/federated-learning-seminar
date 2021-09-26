@@ -18,12 +18,17 @@ Welcome to Federated Learning Seminar :)
     <td>Materials</td>
   </tr>
   <tr>
-    <td>June</td>
-    <td>29</td>
-    <td>0</td>
+    <td rowspan="2">June</td>
+    <td rowspan="2">29</td>
+    <td rowspan="2">0</td>
     <td>A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing</td>
     <td>江宇辉</td>
     <td><a href="2021fall/20210629 - A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing (江宇辉).pptx">Slides</a></td>
+    <tr>
+    <td>PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery</td>
+    <td>毛炜</td>
+    <td><a href="2021fall/20210629-PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery(毛炜）.pptx">Slides</a></td>
+  </tr>
   </tr>
   <tr>
     <td rowspan="2">September</td>
@@ -34,9 +39,9 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2021fall/20210916 - Adaptive User-managed Service Placement for Mobile Edge Computing An Online Learning Approach.pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>20210916-Energy-aware Resource Management</td>
+    <td>Energy-aware Resource Management</td>
     <td>毛炜</td>
-    <td><a href="2021fall/filename.pptx">Slides</a></td>
+    <td><a href="2021fall/20210916 - Energy-aware Resource Management(毛炜).pptx">Slides</a></td>
   </tr>
     <tr>
     <td rowspan="2">September</td>
@@ -47,9 +52,9 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2021fall/20210923 - In-Edge AI Intelligentizing Mobile Edge Computing Caching and Communication by Federated Learning.pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Title</td>
+    <td>Attention-Weighted Federated Deep Reinforcement learning for device-to-device assisted heterogeneous collaborative edge computing</td>
     <td>毛炜</td>
-    <td><a href="2021fall/filename.pptx">Slides</a></td>
+    <td><a href="2021fall/20210923 - Attention-Weighted Federated Deep Reinforcement learning for device-to-device assisted heterogeneous collaborative edge computing(毛炜).pptx">Slides</a></td>
   </tr>
 </table>
 
