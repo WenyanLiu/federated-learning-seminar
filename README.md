@@ -41,7 +41,7 @@ Welcome to Federated Learning Seminar :)
   <tr>
     <td>Energy-aware Resource Management</td>
     <td>毛炜</td>
-    <td><a href="2021fall/20210916 - Energy-aware Resource Management(毛炜).pptx">Slides</a></td>
+    <td><a href="2021fall/20210916-Energy-aware Resource Management(毛炜).pptx">Slides</a></td>
   </tr>
     <tr>
     <td rowspan="2">September</td>
