@@ -54,7 +54,7 @@ Welcome to Federated Learning Seminar :)
   <tr>
     <td>Attention-Weighted Federated Deep Reinforcement learning for device-to-device assisted heterogeneous collaborative edge computing</td>
     <td>毛炜</td>
-    <td><a href="2021fall/20210923 - Attention-Weighted Federated Deep Reinforcement learning for device-to-device assisted heterogeneous collaborative edge computing(毛炜).pptx">Slides</a></td>
+    <td><a href="2021fall/20210923-Attention-Weighted Federated Deep Reinforcement learning for device-to-device assisted heterogeneous collaborative edge computing(毛炜).pptx">Slides</a></td>
   </tr>
 </table>
 
