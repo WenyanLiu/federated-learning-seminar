@@ -34,8 +34,8 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2021fall/20210916 - Adaptive User-managed Service Placement for Mobile Edge Computing An Online Learning Approach.pptx">Slides</a></td>
   </tr>
   <tr>
-    <td>Title</td>
-    <td>毛伟</td>
+    <td>20210916-Energy-aware Resource Management</td>
+    <td>毛炜</td>
     <td><a href="2021fall/filename.pptx">Slides</a></td>
   </tr>
     <tr>
@@ -48,7 +48,7 @@ Welcome to Federated Learning Seminar :)
   </tr>
   <tr>
     <td>Title</td>
-    <td>毛伟</td>
+    <td>毛炜</td>
     <td><a href="2021fall/filename.pptx">Slides</a></td>
   </tr>
 </table>
