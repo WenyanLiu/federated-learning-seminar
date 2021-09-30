@@ -49,7 +49,7 @@ Welcome to Federated Learning Seminar :)
     <td rowspan="2">3</td>
     <td>In-Edge AI Intelligentizing Mobile Edge Computing Caching and Communication by Federated Learning</td>
     <td>江宇辉</td>
-    <td><a href="2021fall/20210923 - In-Edge AI Intelligentizing Mobile Edge Computing Caching and Communication by Federated Learning.pptx">Slides</a></td>
+    <td><a href="2021fall/0923 - In-Edge AI Intelligentizing Mobile Edge Computing Caching and Communication by Federated Learning.pptx">Slides</a></td>
   </tr>
   <tr>
     <td>Attention-Weighted Federated Deep Reinforcement learning for device-to-device assisted heterogeneous collaborative edge computing</td>
