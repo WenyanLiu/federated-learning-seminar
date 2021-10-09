@@ -59,14 +59,14 @@ Welcome to Federated Learning Seminar :)
   <tr>
     <td rowspan="2">September</td>
     <td rowspan="2">30</td>
-    <td rowspan="2">0</td>
-    <td>A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing</td>
+    <td rowspan="2">4</td>
+    <td></td>
     <td>江宇辉</td>
-    <td><a href="2021fall/20210629 - A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing (江宇辉).pptx">Slides</a></td>
+    <td><a href="">Slides</a></td>
     <tr>
-    <td>PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery</td>
+    <td>An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee</td>
     <td>毛炜</td>
-    <td><a href="2021fall/20210930-PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery(毛炜）.pptx">Slides</a></td>
+    <td><a href="2021fall/20210930-An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee .pptx">Slides</a></td>
   </tr>
   </tr>
 </table>
