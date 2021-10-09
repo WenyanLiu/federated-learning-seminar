@@ -56,6 +56,19 @@ Welcome to Federated Learning Seminar :)
     <td>毛炜</td>
     <td><a href="2021fall/20210923-Attention-Weighted Federated Deep Reinforcement learning for device-to-device assisted heterogeneous collaborative edge computing(毛炜).pptx">Slides</a></td>
   </tr>
+  <tr>
+    <td rowspan="2">September</td>
+    <td rowspan="2">30</td>
+    <td rowspan="2">0</td>
+    <td>A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing</td>
+    <td>江宇辉</td>
+    <td><a href="2021fall/20210629 - A Novel Cross Entropy Approach for Offloading Learning in Mobile Edge Computing (江宇辉).pptx">Slides</a></td>
+    <tr>
+    <td>PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery</td>
+    <td>毛炜</td>
+    <td><a href="2021fall/20210930-PACE：Learning Effective Task Decomposition for Human-in-the-loop Healthcare Delivery(毛炜）.pptx">Slides</a></td>
+  </tr>
+  </tr>
 </table>
 
 <table>
