@@ -76,11 +76,6 @@ Welcome to Federated Learning Seminar :)
     <td>Communication-efficient asynchronous federated learning in resource-constrained edge computing</td>
     <td>江宇辉</td>
     <td><a href="2021fall/20211014-Communication-efficient asynchronous federated learning in resource-constrained edge computing.pptx">Slides</a></td>
-    <tr>
-    <td></td>
-    <td>毛炜</td>
-    <td><a href="">Slides</a></td>
-  </tr>
   </tr>
   <tr>
     <td rowspan="2">October</td>
@@ -89,11 +84,6 @@ Welcome to Federated Learning Seminar :)
     <td>FedSiam: Towards Adaptive Federated Semi-Supervised Learning</td>
     <td>江宇辉</td>
     <td><a href="2021fall/20211021-Towards Adaptive Federated Semi-Supervised Learning.pptx">Slides</a></td>
-    <tr>
-    <td></td>
-    <td>毛炜</td>
-    <td><a href="">Slides</a></td>
-  </tr>
   </tr>
 </table>
 
