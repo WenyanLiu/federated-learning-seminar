@@ -60,13 +60,26 @@ Welcome to Federated Learning Seminar :)
     <td rowspan="2">September</td>
     <td rowspan="2">30</td>
     <td rowspan="2">4</td>
-    <td>Federated_Learning_with_Mutually_Cooperating_Devices_A_Consensus_Approach_Towards_Server-Less_Model_Optimization</td>
+    <td>Federated Learning with Mutually Cooperating Devices A Consensus Approach Towards Server-Less Model Optimization</td>
     <td>江宇辉</td>
     <td><a href="20210930-FEDERATED LEARNING WITH MUTUALLYCOOPERATING DEVICESA CONSENSUS APPROACH TOWARDS SERVER-LESS MODEL OPTIMIZATION.pptx">Slides</a></td>
     <tr>
     <td>An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee</td>
     <td>毛炜</td>
     <td><a href="2021fall/20210930-An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee .pptx">Slides</a></td>
+  </tr>
+  </tr>
+    <tr>
+    <td rowspan="2">October</td>
+    <td rowspan="2">14</td>
+    <td rowspan="2">4</td>
+    <td></td>
+    <td>江宇辉</td>
+    <td><a href="">Slides</a></td>
+    <tr>
+    <td></td>
+    <td>毛炜</td>
+    <td><a href="">Slides</a></td>
   </tr>
   </tr>
 </table>
