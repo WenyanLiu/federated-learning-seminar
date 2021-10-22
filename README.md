@@ -62,7 +62,7 @@ Welcome to Federated Learning Seminar :)
     <td rowspan="2">4</td>
     <td></td>
     <td>江宇辉</td>
-    <td><a href="20210930-FEDERATED LEARNING WITH MUTUALLYCOOPERATING DEVICESA CONSENSUS APPROACH TOWARDS SERVER-LESS MODEL OPTIMIZATION.pptx">Federated_Learning_with_Mutually_Cooperating_Devices_A_Consensus_Approach_Towards_Server-Less_Model_Optimization</a></td>
+    <td><a href=""></a></td>
     <tr>
     <td>An Efficiency-Boosting Client Selection Scheme for Federated Learning With Fairness Guarantee</td>
     <td>毛炜</td>
