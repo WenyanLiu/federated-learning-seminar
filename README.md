@@ -93,25 +93,21 @@ Welcome to Federated Learning Seminar :)
     <td>江宇辉</td>
     <td><a href="2021fall/20211103-asynchronous federated learning.pptx">Slides</a></td>
   </tr>
-    <tr>
-    <td rowspan="2">November</td>
-    <td rowspan="2">11</td>
-    <td rowspan="2">8</td>
-    <td>SAFA: a Semi-Asynchronous Protocol for Fast Federated Learning with Low Overhead</td>
-    <td>江宇辉</td>
-    <td><a href="2021fall/20211108-A Semi-Asynchronous Protocol for Fast Federated Learning with Low Overhead.pptx">Slides</a></td>
-    <tr>
+      <tr>
+    <td>November</td>
+    <td>10</td>
+    <td>8</td>
     <td></td>
     <td>毛炜</td>
     <td><a href="">Slides</a></td>
   </tr>
-    <tr>
+      <tr>
     <td>November</td>
-    <td>10</td>
-    <td>7</td>
-    <td></td>
-    <td>毛炜</td>
-    <td><a href="">Slides</a></td>
+    <td>11</td>
+    <td>8</td>
+    <td>SAFA: a Semi-Asynchronous Protocol for Fast Federated Learning with Low Overhead</td>
+    <td>江宇辉</td>
+    <td><a href="2021fall/20211108-A Semi-Asynchronous Protocol for Fast Federated Learning with Low Overhead.pptx">Slides</a></td>
   </tr>
     <tr>
     <td rowspan="2">November</td>
