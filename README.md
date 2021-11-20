@@ -99,7 +99,7 @@ Welcome to Federated Learning Seminar :)
     <td rowspan="2">8</td>
     <td>SAFA: a Semi-Asynchronous Protocol for Fast Federated Learning with Low Overhead</td>
     <td>江宇辉</td>
-    <td><a href="2021fall/20211108-A Semi-Asynchronous Protocol for FastFederated Learning with Low Overhead.pptx">Slides</a></td>
+    <td><a href="2021fall/20211108-A Semi-Asynchronous Protocol for Fast Federated Learning with Low Overhead.pptx">Slides</a></td>
     <tr>
     <td></td>
     <td>毛炜</td>
