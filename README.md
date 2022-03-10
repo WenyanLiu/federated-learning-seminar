@@ -137,9 +137,9 @@ Welcome to Federated Learning Seminar :)
     <td>江宇辉</td>
     <td><a href="2021fall/Federated Learning under Arbitrary Communication Patterns.pptx">Slides</a></td>
     <tr>
-    <td></td>
+    <td>Double Deep Reinforcement Learning Scheduling for IoT Devices</td>
     <td>毛炜</td>
-    <td><a href="">Slides</a></td>
+    <td><a href="2021fall/20211223-Double Deep Reinforcement Learning Scheduling for IoT Devices.pptx">Slides</a></td>
   </tr>
 </table>
 
