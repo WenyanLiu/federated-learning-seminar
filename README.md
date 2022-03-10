@@ -85,14 +85,15 @@ Welcome to Federated Learning Seminar :)
     <td>江宇辉</td>
     <td><a href="2021fall/20211021-Towards Adaptive Federated Semi-Supervised Learning.pptx">Slides</a></td>
   </tr>
-    <tr>
+  <tr>
     <td rowspan="2">November</td>
     <td rowspan="2">3</td>
     <td rowspan="2">7</td>
     <td>Asynchronous federated learning</td>
     <td>江宇辉</td>
     <td><a href="2021fall/20211103-asynchronous federated learning.pptx">Slides</a></td>
-  <td>Deep Reinforcement Learning in Federated Learning</td>
+    <tr>
+    <td>Deep Reinforcement Learning in Federated Learning</td>
     <td>毛炜</td>
     <td><a href="2021fall/20211103-Deep Reinforcement Learning in Federated Learning .pptx">Slides</a></td>
   </tr>
