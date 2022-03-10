@@ -96,15 +96,7 @@ Welcome to Federated Learning Seminar :)
     <td>毛炜</td>
     <td><a href="2021fall/20211103-Deep Reinforcement Learning in Federated Learning .pptx">Slides</a></td>
   </tr>
-      <tr>
-    <td>November</td>
-    <td>10</td>
-    <td>8</td>
-    <td></td>
-    <td>毛炜</td>
-    <td><a href="">Slides</a></td>
-  </tr>
-      <tr>
+    <tr>
     <td>November</td>
     <td>11</td>
     <td>8</td>
