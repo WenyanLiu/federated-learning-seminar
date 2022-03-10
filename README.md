@@ -121,6 +121,30 @@ Welcome to Federated Learning Seminar :)
     <td>毛炜</td>
     <td><a href="">Slides</a></td>
   </tr>
+  <tr>
+    <td rowspan="2">December</td>
+    <td rowspan="2">9</td>
+    <td rowspan="2">10</td>
+    <td>Communication-Efficient Federated Deep Learning With Layerwise Asynchronous Model Update And Temporally Weighted Aggregation</td>
+    <td>江宇辉</td>
+    <td><a href="2021fall/Communication-Efficient Federated Deep Learning With Layerwise Asynchronous Model Update And Temporally Weighted Aggregation.pptx">Slides</a></td>
+    <tr>
+    <td></td>
+    <td>毛炜</td>
+    <td><a href="">Slides</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">December</td>
+    <td rowspan="2">23</td>
+    <td rowspan="2">11</td>
+    <td>Federated Learning under Arbitrary Communication Patterns</td>
+    <td>江宇辉</td>
+    <td><a href="2021fall/Federated Learning under Arbitrary Communication Patterns.pptx">Slides</a></td>
+    <tr>
+    <td></td>
+    <td>毛炜</td>
+    <td><a href="">Slides</a></td>
+  </tr>
 </table>
 
 <table>
