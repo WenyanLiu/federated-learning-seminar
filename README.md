@@ -86,9 +86,9 @@ Welcome to Federated Learning Seminar :)
     <td><a href="2021fall/20211021-Towards Adaptive Federated Semi-Supervised Learning.pptx">Slides</a></td>
   </tr>
     <tr>
-    <td>November</td>
-    <td>3</td>
-    <td>7</td>
+    <td rowspan="2">November</td>
+    <td rowspan="2">3</td>
+    <td rowspan="2">7</td>
     <td>Asynchronous federated learning</td>
     <td>江宇辉</td>
     <td><a href="2021fall/20211103-asynchronous federated learning.pptx">Slides</a></td>
