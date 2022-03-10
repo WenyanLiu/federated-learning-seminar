@@ -113,9 +113,9 @@ Welcome to Federated Learning Seminar :)
     <td>江宇辉</td>
     <td><a href="2021fall/20211118-A High-Performance and Communication-Efficient Federated Learning System with Asynchronous Tiers.pptx">Slides</a></td>
     <tr>
-    <td></td>
+    <td>Experience-Driven Computional Resource Allocation of Federated Learning by Deep Reinforcement Learning</td>
     <td>毛炜</td>
-    <td><a href="">Slides</a></td>
+    <td><a href="2021fall/20211118Experience-Driven Computional Resource Allocation of Federated Learning by Deep Reinforcement Learning.pptx">Slides</a></td>
   </tr>
   <tr>
     <td rowspan="2">December</td>
@@ -125,9 +125,9 @@ Welcome to Federated Learning Seminar :)
     <td>江宇辉</td>
     <td><a href="2021fall/Communication-Efficient Federated Deep Learning With Layerwise Asynchronous Model Update And Temporally Weighted Aggregation.pptx">Slides</a></td>
     <tr>
-    <td></td>
+    <td>Resource Allocation in Mobility-Aware Federated Learning</td>
     <td>毛炜</td>
-    <td><a href="">Slides</a></td>
+    <td><a href="2021fall/20211209-Resource Allocation in Mobility-Aware Federated Learning.pptx">Slides</a></td>
   </tr>
   <tr>
     <td rowspan="2">December</td>
