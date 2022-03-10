@@ -92,6 +92,9 @@ Welcome to Federated Learning Seminar :)
     <td>Asynchronous federated learning</td>
     <td>江宇辉</td>
     <td><a href="2021fall/20211103-asynchronous federated learning.pptx">Slides</a></td>
+  <td>Deep Reinforcement Learning in Federated Learning</td>
+    <td>毛炜</td>
+    <td><a href="2021fall/20211103-Deep Reinforcement Learning in Federated Learning .pptx">Slides</a></td>
   </tr>
       <tr>
     <td>November</td>
